@@ -1,0 +1,5 @@
+Kingston4GBRAM  32.99  3
+Kingston8GBRAM  54.99  1
+Kingston120GBSSD 52.99 0
+LogitechMk550 45.26 5
+GeForceGTX1050Ti 147.99 1
